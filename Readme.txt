@@ -1,3 +1,5 @@
+[Python3.x Translation by @hostinfodev]
+
 telnetenable.py by Paul Gebheim
 Modified to work with newer Netgear routers (R7000, R7500) by insanid
 Translated from the C source available from
