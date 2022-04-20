@@ -1,4 +1,4 @@
-[Ported to Python3.x by @hostinfodev]
+[Ported to Python3.x by @hostinfodev] - *Magic Packet no longer on new models of R7000, R7500*
 
 telnetenable.py by Paul Gebheim
 Modified to work with newer Netgear routers (R7000, R7500) by insanid
